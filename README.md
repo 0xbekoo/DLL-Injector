@@ -1,1 +1,1 @@
-https://github.com/devTBenoth/DLL-Injector/blob/main/gif/video.gif
+<img src="https://github.com/devTBenoth/DLL-Injector/blob/main/gif/video.mp4">
